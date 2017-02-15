@@ -29,6 +29,7 @@
   "devDependencies": {
     "benchmark": "^1.0.0",
     "css-loader": "^0.14.0",
+    "lodash": "^4.17.4",
     "mocha": "~2.1.0",
     "mocha-loader": "~0.7.1",
     "nib": "^1.0.4",
